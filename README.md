@@ -15,7 +15,6 @@ Some of the key strengths I bring to the table:
 If you're working on an exciting mobile project and are looking for a seasoned architect to join your team, I would be thrilled to discuss how I can contribute to your success. Let's connect and explore the possibilities!
 
 ### Links to projects
-<div>- App Store Developer Page -> <a href="https://apps.apple.com/developer/nurmat-zhunusov/id1136576704">https://apps.apple.com/...</a></div>
 - App Store Developer Page -> [https://apps.apple.com/...](https://apps.apple.com/developer/nurmat-zhunusov/id1136576704).
 - Google Play Market Developer Page -> [https://play.google.com/...](https://play.google.com/store/apps/developer?id=AKIpress+Inc.)
 
